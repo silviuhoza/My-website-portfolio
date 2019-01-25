@@ -338,5 +338,12 @@ main {
   main#work h2{
     font-size: 15px;
   }
+  main#about .bio p {
+    font-size: 15px;
+    margin-right: 25px;
+  }
 
-   }
+  header .menu-btn {
+    margin-right: -25px;
+  }
+ }
