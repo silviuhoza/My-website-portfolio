@@ -347,6 +347,10 @@ main#home h1 {
   color: #fff;
   height: 60px;
 }
+.why {
+  color: #f0d90c;
+  font-weight: 700;
+}
 
 @media screen and (min-width: 1171px) {
   .projects {
