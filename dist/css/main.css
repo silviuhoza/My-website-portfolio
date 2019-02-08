@@ -375,6 +375,10 @@ main#home h1 {
     margin-bottom: 1rem;
   }
 
+  main#about  h3 {
+    font-size: 18px;
+  }
+
   ul.menu-nav,
   div.menu-branding {
     float: none;
@@ -452,7 +456,7 @@ main#home h1 {
     font-size: 15px;
   }
 
-  main#about h2 {
+  main#about h2, h3 {
     font-size: 15px;
   }
 
